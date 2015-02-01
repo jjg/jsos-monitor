@@ -1,0 +1,15 @@
+{
+	"name":"jsos-monitor",
+	"version":"0.0.1",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/jjg/jsos-monitor.git"
+	},
+	"dependencies":{
+		"ws":"*"
+	},
+	"engines":{
+		"node":"0.10.35",
+		"npm":"1.4.28"
+	}
+}
